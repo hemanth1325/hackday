@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assess openclow encryption
 
 This folder contains only the sensitive-data encryption project.
@@ -114,3 +115,6 @@ Remove auto-start:
 ```powershell
 .\scripts\uninstall-startup.ps1
 ```
+=======
+# hackday
+2316b1bf6d712a99244f5a5337001fce04f894e4
