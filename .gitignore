@@ -1,5 +1,10 @@
+ HEAD
 __pycache__/
 *.pyc
 build/
 dist/
 *.spec
+=======
+.venv/
+.venv/
+0e45eddc8e3e7f4907ee826d312f7f723ade31e6

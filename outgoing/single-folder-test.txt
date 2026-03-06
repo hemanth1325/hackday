@@ -1,0 +1,4 @@
+name=John
+email=ENC[gAAAAABpqtusVt-6BNjYPXM5Mup_WmFc-S7j-2w18z60C5woZYUBO6hrFrVayDqVIPlYy23nQ1ESbDEbmYS6MrPck5i3h7ILHmbCQqvsTYA_sWFb2NE1Xwg=]
+note=keep this line
+password=ENC[gAAAAABpqtuslcIVy6wUQPLopO0aRjGvsrChF1YmoWp6oy2b0G2uzkDCV-YM3dKBkso06b8WMW7AgkWsInj7A2DjTQgNpqlpcQ==]
