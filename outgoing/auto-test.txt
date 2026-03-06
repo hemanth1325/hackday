@@ -1,0 +1,6 @@
+employee_name=Ravi
+department=Operations
+email=ENC[gAAAAABpqttmNoJ3NogqTX2ZowdIQNk-uPcYw-uYqxhIJ0mNbhDBlha6vO7EuDigcUC_ZbQVr5sYQjjYeNwR625wLCkq-On7DOTVdr5ib7UcWCCZccPyrCg=]
+phone=ENC[gAAAAABpqttmIdCnx9KAdd9-x0vqqpMUHS34KMmadeDI96w468I9D2LlzfarCvoXdM9x7FG3RNZm4xE9IuBwIa4nh8my4sMj5A==]
+password=ENC[gAAAAABpqttmpAuhy9s2_EkE63mCXe69Csz9dEY_zXdXk3n0TO_U77II-Sd1K704xjuuVte_FP8kw4BMbaMaMeDprxcLTTH30Q==]
+remarks=This line should stay readable.

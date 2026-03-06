@@ -1,7 +1,0 @@
-{
-  "upload_url": "https://api.clawmatry.com/upload",
-  "upload_token": "YOUR_API_TOKEN",
-  "upload_auth_header": "Authorization",
-  "upload_field": "file",
-  "upload_only_if_sensitive": false
-}
