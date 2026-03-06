@@ -1,0 +1,6 @@
+employee_name=Ravi
+department=Operations
+email=ravi.kumar@example.com
+phone=+1 415-555-0123
+password=Welcome@123
+remarks=This line should stay readable.

@@ -1,0 +1,26 @@
+{
+  "camera_index": 0,
+  "control_starts_enabled": false,
+  "smoothing": 0.25,
+  "scroll_scale": 900,
+  "gesture_action_map": {
+    "pointer": "move_pointer",
+    "pinch": "left_click",
+    "two_finger_scroll": "scroll",
+    "open_palm": "media_toggle",
+    "v_sign": "app_switch",
+    "fist": "toggle_control"
+  },
+  "cooldown_ms": {
+    "move_pointer": 0,
+    "left_click": 350,
+    "scroll": 70,
+    "media_toggle": 1000,
+    "app_switch": 1000,
+    "toggle_control": 900
+  },
+  "thresholds": {
+    "pinch_distance": 0.045,
+    "v_sign_spread": 0.08
+  }
+}
